@@ -1,8 +1,8 @@
-package com.enviro.assesment.grad001.jadamathele.services.impl;
+package com.enviro.assesment.grad001.jadamathele.service.impl;
 
-import com.enviro.assesment.grad001.jadamathele.entities.WasteCollection;
-import com.enviro.assesment.grad001.jadamathele.repositories.WasteCollectionRepository;
-import com.enviro.assesment.grad001.jadamathele.services.WasteCollectionService;
+import com.enviro.assesment.grad001.jadamathele.entity.WasteCollection;
+import com.enviro.assesment.grad001.jadamathele.repository.WasteCollectionRepository;
+import com.enviro.assesment.grad001.jadamathele.service.WasteCollectionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

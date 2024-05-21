@@ -1,4 +1,4 @@
-package com.enviro.assesment.grad001.jadamathele.entities;
+package com.enviro.assesment.grad001.jadamathele.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
