@@ -8,5 +8,4 @@ import org.springframework.stereotype.Service;
 @Service
 public interface WasteCollectionService {
     public WasteCollection saveData(long year, long recyclables, long organics, long buildersRubble);
-
 }
