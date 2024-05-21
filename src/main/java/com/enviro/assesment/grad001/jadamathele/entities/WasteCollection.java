@@ -14,15 +14,15 @@ import lombok.Setter;
 @Table(name = "Waste_Collection")
 public class WasteCollection {
     @Id
-    private int year;
+    private long year;
 
     @Column(name = "recyclables")
-    private int recyclables;
+    private long recyclables;
 
     @Column(name = "organics")
-    private int orgaincs;
+    private long orgaincs;
 
     @Column(name = "builders_rubble")
-    private int buildersRubble;
+    private long buildersRubble;
 
 };
