@@ -20,9 +20,8 @@ public class WasteCollection {
     private long recyclables;
 
     @Column(name = "organics")
-    private long orgaincs;
+    private long organics;
 
     @Column(name = "builders_rubble")
     private long buildersRubble;
-
 };

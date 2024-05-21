@@ -5,7 +5,11 @@ import com.enviro.assesment.grad001.jadamathele.repositories.WasteCollectionRepo
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public interface WasteCollectionService {
-    public WasteCollection saveData(long year, long recyclables, long organics, long buildersRubble);
+
+    public List<WasteCollection> parseFile(String filename);
+
 }
