@@ -1,4 +1,4 @@
-This project takes environmental data which has been uploaded by the client, which in this case is the CCT Waste Minimisation Program, using a .txt file
+This project takes environmental data uploaded by the client, which in this case is the CCT Waste Minimisation Program, using a .txt file
 and saves the data in an sql (h2-database) table which can then be queried. The processed data, is then accessed using a series of get requests allowing
 the client to see trends in certain parts of the data as well as view averages, medians, minimum and maximum values.
 
