@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"year": "2016",
+		"recyclables": "25234",
+		"organics": "134047",
+		"buildersRubble": "434095"
+	},
+	{
+		"id": 2,
+		"year": "2017",
+		"recyclables": "23453",
+		"organics": "162418",
+		"buildersRubble": "302677"
+	},
+	{
+		"id": 3,
+		"year": "2018",
+		"recyclables": "27764",
+		"organics": "134512",
+		"buildersRubble": "323154"
+	},
+	{
+		"id": 4,
+		"year": "2019",
+		"recyclables": "27921",
+		"organics": "64182",
+		"buildersRubble": "173055"
+	},
+	{
+		"id": 5,
+		"year": "2020",
+		"recyclables": "34417",
+		"organics": "71755",
+		"buildersRubble": "143545" 
+	}
+]
